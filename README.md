@@ -29,7 +29,7 @@ Introduzir ao versionamento de código com Git e GitHub.
   <tbody align="left">
     <tr>
       <td>01</td>
-      <td>Visão Geral do Curso e Ferramentas</td>
+      <td>Visão Geral do curso e Ferramentas</td>
       <td align="center">
         <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/01-visao-geral-do-curso-e-ferramentas.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
@@ -93,4 +93,4 @@ Introduzir ao versionamento de código com Git e GitHub.
 - [MICROSOFT. Microsoft to acquire GitHub for $7.5 billion](https:/news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)
 
 ##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+<div align="center">Feito com s2 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
